@@ -21,6 +21,7 @@ list_of_files=[
     "setup.py",
     "requirements.txt",
     "research/trials.ipynb"
+    "templates/index.html"
 ]
 
 for directory in list_of_files:
